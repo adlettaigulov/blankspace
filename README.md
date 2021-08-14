@@ -1,4 +1,4 @@
 # blankspace-store
 Blankspace online store
 
-https://blanlspace.kz
+https://blankspace.kz
